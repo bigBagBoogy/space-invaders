@@ -1,0 +1,22 @@
+{
+  "name": "space-invaders",
+  "version": "1.0.0",
+  "description": "echo \"# space-invaders\" >> README.md git init git add README.md git commit -m \"first commit\" git branch -M main git remote add origin https://github.com/bigBagBoogy/space-invaders.git git push -u origin main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigBagBoogy/space-invaders.git"
+  },
+  "author": "Maarten van den Berg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigBagBoogy/space-invaders/issues"
+  },
+  "homepage": "https://github.com/bigBagBoogy/space-invaders#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
